@@ -1,4 +1,4 @@
-/*/get it easy bro
+//get it easy bro
 
 
 
