@@ -13,11 +13,10 @@
   },
   "dependencies": {
     "@trashcore/baileys": "latest",
-    "adm-zip": "^0.5.16",
     "chalk": "^4.1.2",
     "crypto": "^1.0.1",
     "axios": "^1.7.9",
-    "express": "latest",
+    "adm-zip": "^0.5.10",
     "api-dylux": "^1.8.5",
     "node-fetch": "^2.7.0",
     "node-webpmux": "^3.1.1",
