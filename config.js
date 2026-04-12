@@ -7,7 +7,7 @@ module.exports = {
   PREFIX: ".",
 
   // ===== Owners (without + or spaces) =====
-  OWNER: ["254788460896"],
+  OWNER: ["254104245659"],
 
   // ===== Sticker Settings =====
   PACK_NAME: "Trashcore Stickers",
